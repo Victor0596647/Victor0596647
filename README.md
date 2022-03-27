@@ -5,4 +5,5 @@
 - The languages I have learned so far in my lifetime are C#, Javascript, Java, C++, Python, and, HTML & CSS.(I may have forgotten some of the languages)
 ## Stats:
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor0596647)](https://github.com/anuraghazra/github-readme-stats)
+![Victor0596647's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor0596647&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor0596647&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

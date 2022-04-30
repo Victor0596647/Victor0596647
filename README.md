@@ -26,5 +26,5 @@
 <h1 align="center">Other Stuff</h1>
 
 <ul>
-  <li><a href="lothern.netlify.app">My Website 🕸️🌐</a></li>
+  <li><a href="https://lothern.netlify.app">My Website 🕸️🌐</a></li>
 </ul>

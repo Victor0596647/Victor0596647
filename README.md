@@ -1,4 +1,5 @@
-<h1 align="center">Hello there, I'm Victor0596647</h1>
+
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Hello+there%2C+I%27m+Victor0596647&height=300&fontSize=50&textBg=true)" /></h1>
 
 <ul>
   <li>I am a teenager who enjoys coding.</li>

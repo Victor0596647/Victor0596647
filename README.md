@@ -4,7 +4,7 @@
   <li>I am a teenager who enjoys coding.</li>
   <li>I post some original projects here to show off my learning of a certain language.</li>
   <li>Currently, I am on a training arc to improve my programming and code solving skills.</li>
-  <li>The languages I have learned so far in my lifetime are C#, Javascript, Java, C++, Python, and, HTML & CSS.(I may have forgotten some of the languages)</li>
+  <li>The programming languages that I am interested in are Javascript, Java, C++, and, Python</li>
  </ul>
  
 <h1 align="center">Stats</h1>

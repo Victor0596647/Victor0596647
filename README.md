@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=Victor0596647&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?username=Victor0596647&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">

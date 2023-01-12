@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=victor0596647&show_icons=true&theme=radical" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Victor0596647&show_icons=true&theme=radical" />
   </a>
 
   <a href="https://github-readme-streak-stats.herokuapp.com">
@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0596647&layout=compact&theme=radical" />
+    <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor0596647&layout=compact&theme=radical" />
   </a>
 </div>
 

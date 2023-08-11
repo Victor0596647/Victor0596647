@@ -5,7 +5,8 @@
   <li>I am a teenager who enjoys coding.</li>
   <li>I post some original projects here to show off my learning of a certain language.</li>
   <li>Currently, I am on a training arc to improve my programming and code solving skills.</li>
-  <li>The programming languages that I am interested in are Javascript, Java, C++, and, Python</li>
+  <li>The programming languages that I am interested in are Typescript, Javascript, C++, Python, HTML, and CSS</li>
+  <li>I am interested in Computer Graphics, Games, Machine Learning, and Automation</li>
  </ul>
  
 <h1 align="center">Stats</h1>
